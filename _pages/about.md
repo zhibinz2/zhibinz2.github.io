@@ -52,5 +52,6 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 ### Visitor traffic map
 <div style="text-align:center; margin-top: 2rem;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fNrmg41zAp7D7kT0SbcxKiVZ4EF_UuEvF-XcfnFu7-g&cl=ffffff&w=a"></script>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fNrmg41zAp7D7kT0SbcxKiVZ4EF_UuEvF-XcfnFu7-g"></script>
 </div>
